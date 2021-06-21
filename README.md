@@ -23,5 +23,5 @@ and paste token
 
 and give a token 
 
-and must join [pixel](https://discord.gg/pixop) or 
+and must join [pixel](https://discord.gg/pixop) or bot is not working
 
